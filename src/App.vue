@@ -40,7 +40,6 @@ export default {
         amountCorrect: amountCorrect.length,
         percentage: removedDecimals
       }
-      console.log(this.result)
     },
     submit() {
       let checkIfAnswered = this.data.map((question) => { // loops through every question and assigns a specefic value if its not answered
@@ -49,7 +48,7 @@ export default {
         }
       })
 
-      let condition = this.data.every((question) => typeof(question.userAnswer) == "number") // checks to see if every question has been answered, checking using typeof since value of 0 will result in false
+      let condition = this.data.every((question) => typeof question.userAnswer == "number") // checks to see if every question has been answered
       
       if(condition == false){
         this.allNotAnswered = true

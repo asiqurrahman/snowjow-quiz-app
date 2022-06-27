@@ -30,23 +30,23 @@
     "correctAnswer": 3
   },
   {
-    "question": "What of the following is the latest Apple Watch Model?",
+    "question": "Which of the following is not a quote said in the Marvel movie Endgame?",
     "choices": [
-      "Apple Watch 5",
-      "Apple Watch 6",
-      "Apple Watch 7",
-      "Apple Watch 8"
+      "I am inevitable",
+      "Part of the journey is the end",
+      "We're in the endgame now",
+      "No amount of money ever bought a second of time"
     ],
     "correctAnswer": 2
   },
   {
-    "question": "Which of the following is the most expensive?",
+    "question": "What year was the company Snowjoe founded?",
     "choices": [
-      "RTX 3070",
-      "Apple Airpods Max",
-      "Apple Airpods Pro",
-      "The overflow-wrap CSS property applies to inline elements, setting whether the browser should"
+      "2004",
+      "2010",
+      "1999",
+      "2016"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0
   }
 ]

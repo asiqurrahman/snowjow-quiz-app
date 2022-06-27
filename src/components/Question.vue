@@ -24,12 +24,12 @@ export default {
     Choice,
   },
   computed: {
-    answered() {
+    answered() { //assigns class name if question is not answered
       if (this.question.userAnswer === null) {
         return "not-answered";
       }
     },
-    result() {
+    result() { //assigns class name based on if answer is correct or name
       if (this.question.result === "correct") {
         return "correct";
       } else if (this.question.result === "wrong") {
