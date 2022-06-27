@@ -1,12 +1,21 @@
 [
   {
     "question": "Which of the following water bottles is banned in the UK?",
-    "choices": ["Dasani", "Aquafina", "Poland Spring", "Fiji"],
+    "choices": [
+      "Dasani", 
+      "Aquafina", 
+      "Poland Spring", 
+      "Fiji"
+    ],
     "correctAnswer": 0
   },
   {
     "question": "Which of the following is not a Tesla car model?",
-    "choices": ["Model 3", "Model S", "Model Y", "Model P"],
+    "choices": [
+      "Model 3", 
+      "Model S", 
+      "Model Y", 
+      "Model P"],
     "correctAnswer": 3
   },
   {
