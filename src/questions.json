@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following water bottles is banned in the UK?",
+    "choices": ["Dasani", "Aquafina", "Poland Spring", "Fiji"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is not a Tesla car model?",
+    "choices": ["Model 3", "Model S", "Model Y", "Model P"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What of the following is the latest Apple Watch Model?",
+    "choices": [
+      "Apple Watch 5",
+      "Apple Watch 6",
+      "Apple Watch 7",
+      "Apple Watch 8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is the most expensive?",
+    "choices": [
+      "RTX 3070",
+      "Apple Airpods Max",
+      "Apple Airpods Pro",
+      "25 Grams Of Gold"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What of the following is the latest Apple Watch Model?",
+    "choices": [
+      "Apple Watch 5",
+      "Apple Watch 6",
+      "Apple Watch 7",
+      "Apple Watch 8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is the most expensive?",
+    "choices": [
+      "RTX 3070",
+      "Apple Airpods Max",
+      "Apple Airpods Pro",
+      "The overflow-wrap CSS property applies to inline elements, setting whether the browser should"
+    ],
+    "correctAnswer": 3
+  }
+]
